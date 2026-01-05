@@ -1,0 +1,7 @@
+{
+  "min_interval_seconds": 900,
+  "min_accumulated_lamports": 200000000,
+  "buyback_bps": 10000,
+  "lp_bps": 0,
+  "distribution_bps": 0
+}
